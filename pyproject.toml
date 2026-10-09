@@ -7,7 +7,7 @@ name = "fht"
 version = "0.1.1"
 description = "This tool is used to validate and convert between different FHT header serializations"
 authors = ["David Molik <david.molik@usda.gov>","Adam Wright <adam.wright@oicr.on.ca>"]
-license = "USDA-ARS"
+license = "MPL-2.0"
 readme = "README.md"
 
 [tool.poetry.dependencies]
